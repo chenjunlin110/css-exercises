@@ -53,3 +53,9 @@ div .child {
   font-weight: 800;
   font-size: 14px;
 }
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
